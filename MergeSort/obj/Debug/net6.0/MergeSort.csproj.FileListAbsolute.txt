@@ -1,0 +1,15 @@
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.exe
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.dll
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\ref\MergeSort.dll
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.dll
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+E:\PRACTICE\DOT NET\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
